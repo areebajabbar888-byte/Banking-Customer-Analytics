@@ -8,7 +8,7 @@ import seaborn as sns
 # 1. LOAD THE BANKING DATASET
 # ==================================================
 
-# 🟢 CHANGE THIS PATH TO YOUR Banking.csv FILE LOCATION
+# CHANGE THIS PATH TO YOUR Banking.csv FILE LOCATION
 file_path = r"C:\Users\SSC\Downloads\Banking.csv"
 
 df = pd.read_csv(file_path)
