@@ -12,29 +12,25 @@ This project uses banking customer data to explore customer demographics, income
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn
 - **Power BI:** Dashboard development and visualization
 - **GitHub:** Project documentation and version control
-
 ## 📂 Project Structure
+
+```text
 Banking-Analytics/
-│
 ├── 01_dataset/
 │   └── banking_customer_data.csv
-│
 ├── 02_sql/
 │   └── banking_analysis.sql
-│
 ├── 03_python/
 │   └── banking_eda.py
-│
 ├── 04_dashboard/
 │   └── banking_analytics.pbix
-│
 ├── 05_screenshots/
 │   ├── page1_Home.png
 │   ├── page2_Loan Analysis.png
 │   ├── page3_Deposit Analysis.png
 │   └── page4_Summary.png
-│
 └── README.md
+```
 
 
 
